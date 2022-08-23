@@ -1,0 +1,7 @@
+http://127.0.0.1:5000/api/login/auth - post
+http://127.0.0.1:5000/api/deauth - post 
+http://127.0.0.1:5000/api/signup/sup - post 
+http://127.0.0.1:5000/api/score/mxscore - post
+http://127.0.0.1:5000/api/setscore/ss - post
+http://127.0.0.1:5000/api/userinfo - get 
+http://127.0.0.1:5000/test - get
